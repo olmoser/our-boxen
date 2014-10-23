@@ -61,3 +61,5 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 github "docker", "0.6.0"
 github "iterm2", "1.2.2"
+
+include iterm2::stable
